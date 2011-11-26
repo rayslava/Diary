@@ -1,2 +1,7 @@
 Simple script for personal diary.
 Needs latex.
+
+All config is inside the script.
+
+diary.pl 	-n : Generate new note and add it to the diary
+		-g : Generate an diary.pdf file in current dir using LaTeX
